@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraf9723" alt="ashraf9723" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_ashraf_00001" target="blank"><img src="https://img.shields.io/twitter/follow/_ashraf_00001?logo=twitter&style=for-the-badge" alt="_ashraf_00001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ashraf_0001" target="blank"><img src="https://img.shields.io/twitter/follow/_ashraf_0001?logo=twitter&style=for-the-badge" alt="_ashraf_0001" /></a> </p>
 
 - 📫 How to reach me **mdashraf9723@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_ashraf_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ashraf_00001" height="30" width="40" /></a>
+<a href="https://twitter.com/_ashraf_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ashraf_0001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ashraf" height="30" width="40" /></a>
 <a href="https://fb.com/md ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md ashraf" height="30" width="40" /></a>
 <a href="https://instagram.com/___.ashraf._____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.ashraf._____" height="30" width="40" /></a>
